@@ -1,0 +1,100 @@
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.csproj.AssemblyReference.cache
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.csproj.CoreCompileInputs.cache
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\SistemaGestionEmpleadosWebForm.dll.config
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\SistemaGestionEmpleadosWebForm.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\SistemaGestionEmpleadosWebForm.pdb
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\csc.exe
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\csc.exe.config
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\csc.rsp
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\csi.exe
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\csi.exe.config
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\csi.rsp
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Buffers.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Memory.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\vbc.exe
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\vbc.exe.config
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\vbc.rsp
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\modelos.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\modelos.pdb
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\modelos.dll.config
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaG.7A054C74.Up2Date
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.pdb
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\Helpers.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\Helpers.pdb
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\Controllers.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForm\bin\Controllers.pdb
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForms\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.csproj.AssemblyReference.cache
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForms\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.csproj.CoreCompileInputs.cache
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForms\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.dll
+C:\Users\mari_\source\repos\SistemaGestionEmpleadosWebForms\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\SistemaGestionEmpleadosWebForm.dll.config
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\SistemaGestionEmpleadosWebForm.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\SistemaGestionEmpleadosWebForm.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\csc.exe
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\csc.exe.config
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\csc.rsp
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\csi.exe
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\csi.exe.config
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\csi.rsp
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Buffers.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Memory.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\vbc.exe
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\vbc.exe.config
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\vbc.rsp
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\Controllers.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\Helpers.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\modelos.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\Controllers.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\Helpers.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\modelos.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\modelos.dll.config
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.csproj.AssemblyReference.cache
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.csproj.CoreCompileInputs.cache
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaG.7A054C74.Up2Date
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.dll
+C:\Users\mari_\source\repos\PARCIAL 2\SistemaGestionEmpleadosWebForm\obj\Debug\SistemaGestionEmpleadosWebForm.pdb

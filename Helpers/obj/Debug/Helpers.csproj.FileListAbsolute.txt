@@ -1,0 +1,20 @@
+C:\Users\mari_\source\repos\Helpers\bin\Debug\Helpers.dll
+C:\Users\mari_\source\repos\Helpers\bin\Debug\Helpers.pdb
+C:\Users\mari_\source\repos\Helpers\bin\Debug\modelos.dll
+C:\Users\mari_\source\repos\Helpers\bin\Debug\modelos.pdb
+C:\Users\mari_\source\repos\Helpers\bin\Debug\modelos.dll.config
+C:\Users\mari_\source\repos\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Users\mari_\source\repos\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\mari_\source\repos\Helpers\obj\Debug\Helpers.csproj.Up2Date
+C:\Users\mari_\source\repos\Helpers\obj\Debug\Helpers.dll
+C:\Users\mari_\source\repos\Helpers\obj\Debug\Helpers.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\bin\Debug\Helpers.dll
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\bin\Debug\Helpers.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\bin\Debug\modelos.dll
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\bin\Debug\modelos.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\bin\Debug\modelos.dll.config
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\obj\Debug\Helpers.csproj.Up2Date
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\obj\Debug\Helpers.dll
+C:\Users\mari_\source\repos\PARCIAL 2\Helpers\obj\Debug\Helpers.pdb

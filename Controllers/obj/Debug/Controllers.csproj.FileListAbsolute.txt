@@ -1,0 +1,20 @@
+C:\Users\mari_\source\repos\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\Users\mari_\source\repos\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\mari_\source\repos\Controllers\bin\Debug\Controllers.dll
+C:\Users\mari_\source\repos\Controllers\bin\Debug\Controllers.pdb
+C:\Users\mari_\source\repos\Controllers\bin\Debug\modelos.dll
+C:\Users\mari_\source\repos\Controllers\bin\Debug\modelos.pdb
+C:\Users\mari_\source\repos\Controllers\bin\Debug\modelos.dll.config
+C:\Users\mari_\source\repos\Controllers\obj\Debug\Controll.01F35609.Up2Date
+C:\Users\mari_\source\repos\Controllers\obj\Debug\Controllers.dll
+C:\Users\mari_\source\repos\Controllers\obj\Debug\Controllers.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\bin\Debug\Controllers.dll
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\bin\Debug\Controllers.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\bin\Debug\modelos.dll
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\bin\Debug\modelos.pdb
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\bin\Debug\modelos.dll.config
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\obj\Debug\Controll.01F35609.Up2Date
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\obj\Debug\Controllers.dll
+C:\Users\mari_\source\repos\PARCIAL 2\Controllers\obj\Debug\Controllers.pdb
