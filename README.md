@@ -152,7 +152,7 @@ Este proyecto está pensado como ejercicio grupal/académico. Si algún compañe
 - Fue realizado aplicando buenas prácticas aprendidas durante la carrera
 - Las imágenes, íconos y estructuras visuales se generaron con ayuda de Tailwind CSS
 
-![Preview del login](SistemaGestionEmpleadosWebForm/Login.png) 
-![Preview del menu de admin](SistemaGestionEmpleadosWebForm/menuAdmin.png) 
+![Preview del login](SistemaGestionEmpleadosWebForm/fotos/Login.png) 
+![Preview del menu de admin](SistemaGestionEmpleadosWebForm/fotos/menuAdmin.png) 
 ![Preview del  menu de empleado](SistemaGestionEmpleadosWebForm/fotos/menuEmpleado.png) 
-![Preview del seccion gestion acceso](SistemaGestionEmpleadosWebForm/SeccionDeGestiónDeAccesos.png) 
+![Preview del seccion gestion acceso](SistemaGestionEmpleadosWebForm/fotos/SeccionDeGestiónDeAccesos.png) 
