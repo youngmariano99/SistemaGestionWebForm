@@ -15,7 +15,7 @@ Este proyecto es una aplicación web desarrollada en **ASP.NET Web Forms (C#)** 
 
 ## 🔧 Tecnologías Utilizadas
 
-🔧 Tecnologías Utilizadas (actualizado)
+🔧 Tecnologías Utilizadas
 - ASP.NET Web Forms (C#)
 - SQL Server (con procedimientos básicos de SELECT, INSERT, DELETE)
 - Tailwind CSS para el diseño responsive
